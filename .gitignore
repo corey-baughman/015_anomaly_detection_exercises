@@ -5,3 +5,4 @@ __pycach__
 *.csv
 dont_push/*
 *.shp
+*.txt
